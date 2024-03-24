@@ -32,6 +32,7 @@
     "expo-constants": "~13.0.1",
     "expo-font": "~10.0.4",
     "expo-random": "~12.1.1",
+    "expo-solana-wallet": "^1.1.4",
     "expo-splash-screen": "~0.14.1",
     "expo-status-bar": "~1.2.0",
     "expo-web-browser": "~10.1.0",
